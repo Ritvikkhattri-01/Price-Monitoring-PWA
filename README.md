@@ -1,0 +1,2 @@
+# Price-Monitoring-PWA
+Price Monitoring is a progressive web app designed to help sellers monitor market prices for electronic appliances and adjust their strategies to make future planning. A progressive web application is a type of application software delivered through the web built using HTML, CSS and Javascript, NodeJs. I have implemented web scraping to get prices of different devices from various sites.
